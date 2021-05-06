@@ -22,3 +22,5 @@ target/
 
 mysql/
 mysql/*
+
+vendor/
